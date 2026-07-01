@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi! I am SHIVAM👋
+
+I'm currently learning Python and building a strong foundation in programming. I enjoy solving problems, exploring new technologies, and continuously improving my skills through hands-on learning.
+
+I'm passionate about growing as a developer, working on practical projects, and connecting with people who share an interest in technology and continuous learning.
 
 <!--
 **shivam-0006/shivam-0006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
